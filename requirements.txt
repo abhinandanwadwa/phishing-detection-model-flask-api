@@ -1,5 +1,5 @@
 click
-Flask=
+Flask
 greenlet
 gunicorn
 itsdangerous
