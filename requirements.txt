@@ -11,3 +11,4 @@ protobuf
 pynvim
 six
 Werkzeug
+scikit-learn
